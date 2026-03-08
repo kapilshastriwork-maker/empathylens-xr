@@ -148,3 +148,7 @@ MIT License — free to use, modify, and distribute.
 <p align="center">
   Built with ❤️ for Cambridge RealityX 2026
 </p>
+<img width="1908" height="910" alt="image" src="https://github.com/user-attachments/assets/255839ff-083d-458d-8da2-8389dc2959cd" />
+<img width="1439" height="798" alt="image" src="https://github.com/user-attachments/assets/55ec9084-6768-4f29-8897-6d94df046c3a" />
+<img width="1914" height="904" alt="image" src="https://github.com/user-attachments/assets/33720e41-9ba7-4b33-9f11-957f4c9dc17a" />
+<img width="1914" height="902" alt="image" src="https://github.com/user-attachments/assets/b738fcd6-02a5-4560-929e-3cc51f4e5177" />
